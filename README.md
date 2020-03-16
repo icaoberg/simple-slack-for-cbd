@@ -7,7 +7,13 @@ A simple script to send direct messages to some users or post on a channel in th
 * [tabulate](https://pypi.org/project/tabulate/)
 * [PathLib](https://docs.python.org/3/library/pathlib.html)
 
-# Simple example
+# Install
+
+Run `prepare.sh`.
+
+# Examples
+
+## Simple example
 
 ```
 python3 ./slack.py -u icaoberg -m "Time to :shower: and go to :bed:"
