@@ -27,3 +27,8 @@ MESSAGE='*This is your daily friendly automated reminder* :nerd_face:\n
 python3 slack.py -u icaoberg -m "$MESSAGE"
 
 ````
+
+---
+[![CBD](http://www.cbd.cmu.edu/wp-content/uploads/2017/07/wordpress-default.png)](http://www.cbd.cmu.edu)
+
+Copyleft © 2020 [icaoberg](http://www.andrew.cmu.edu/~icaoberg) at the [Computational Biology Department](http://www.cbd.cmu.edu) in [Carnegie Mellon University](http://www.cmu.edu)
